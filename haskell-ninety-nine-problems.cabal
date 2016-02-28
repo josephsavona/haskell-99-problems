@@ -9,20 +9,6 @@ cabal-version:       >=1.10
 library
     exposed-modules:
         Problems.H01
-        Problems.H02
-        Problems.H03
-        Problems.H04
-        Problems.H05
-        Problems.H06
-        Problems.H07
-        Problems.H08
-        Problems.H09
-        Problems.H10
-        Problems.H11
-        Problems.H12
-        Problems.H13
-        Problems.H14
-        Problems.H15
     build-depends:          base
     default-language:       Haskell2010
 

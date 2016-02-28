@@ -15,4 +15,5 @@ module Problems.H01 where
 -- prop> myLast [a] == last [a]
 
 myLast :: [a] -> a
+-- myLast xs = head (reverse xs)
 myLast = head . reverse
